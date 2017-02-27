@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/devoll/ccnet2/",
   "dependencies": {
-    "serialport": "3.1.*",
+    "serialport": "2.1.*",
     "async": "*"
   }
 }
